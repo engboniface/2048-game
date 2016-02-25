@@ -3,7 +3,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #9cc2d2;
+  background: #F3DCDC;
   color: #354b59;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-family: "Whitney SSm A","Whitney SSm B","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -210,7 +210,7 @@ hr {
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #1e6477;
+  background: #C15397;
   border-radius: 6px;
   width: 500px;
   height: 500px;
@@ -610,7 +610,7 @@ hr {
   margin-bottom: 0; }
 
 .game-explanation {
-  margin-top: 50px; }
+  margin-top: 50px; float: middle; }
 
 .sharing {
   margin-top: 20px;
